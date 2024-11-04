@@ -1,0 +1,12 @@
+[0.007s] Invoking command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors -- -j2 -l2
+[0.072s] [ 33%] [32mBuilding CXX object CMakeFiles/fake_lidar.dir/src/lidar_config.cpp.o[0m
+[0.072s] [ 66%] [32mBuilding CXX object CMakeFiles/fake_lidar.dir/src/fake_lidar.cpp.o[0m
+[0.302s] [01m[K/home/francis/Documents/ROS2/workspace/src/fake_sensors/src/fake_lidar.cpp:9:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv.bridge.h: No such file or directory
+[0.302s]     9 | #include [01;31m[K"cv_bridge/cv.bridge.h"[m[K
+[0.303s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.303s] compilation terminated.
+[0.306s] gmake[2]: *** [CMakeFiles/fake_lidar.dir/build.make:76: CMakeFiles/fake_lidar.dir/src/fake_lidar.cpp.o] Error 1
+[0.306s] gmake[2]: *** Waiting for unfinished jobs....
+[2.282s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/fake_lidar.dir/all] Error 2
+[2.282s] gmake: *** [Makefile:146: all] Error 2
+[2.284s] Invoked command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors -- -j2 -l2

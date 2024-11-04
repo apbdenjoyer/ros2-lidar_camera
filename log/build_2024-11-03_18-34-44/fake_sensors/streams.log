@@ -1,0 +1,10 @@
+[0.006s] Invoking command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors -- -j2 -l2
+[0.049s] [ 33%] [32mBuilding CXX object CMakeFiles/fake_lidar.dir/src/fake_lidar.cpp.o[0m
+[0.220s] [01m[K/home/francis/Documents/ROS2/workspace/src/fake_sensors/src/fake_lidar.cpp:9:10:[m[K [01;31m[Kfatal error: [m[Kcv_bridge/cv_bridge.h: No such file or directory
+[0.220s]     9 | #include [01;31m[K<cv_bridge/cv_bridge.h>[m[K
+[0.220s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.220s] compilation terminated.
+[0.222s] gmake[2]: *** [CMakeFiles/fake_lidar.dir/build.make:76: CMakeFiles/fake_lidar.dir/src/fake_lidar.cpp.o] Error 1
+[0.222s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/fake_lidar.dir/all] Error 2
+[0.223s] gmake: *** [Makefile:146: all] Error 2
+[0.225s] Invoked command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors -- -j2 -l2

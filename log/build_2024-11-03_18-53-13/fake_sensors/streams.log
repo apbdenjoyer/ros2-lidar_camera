@@ -1,0 +1,25 @@
+[0.007s] Invoking command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors -- -j2 -l2
+[0.055s] [ 33%] [32mBuilding CXX object CMakeFiles/fake_lidar.dir/src/fake_lidar.cpp.o[0m
+[4.427s] [ 66%] [32m[1mLinking CXX executable fake_lidar[0m
+[4.636s] [100%] Built target fake_lidar
+[4.644s] Invoked command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors -- -j2 -l2
+[4.675s] Invoking command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors
+[4.680s] -- Install configuration: ""
+[4.680s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/lib/fake_sensors/fake_lidar
+[4.682s] -- Set non-toolchain portion of runtime path of "/home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/lib/fake_sensors/fake_lidar" to ""
+[4.682s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/ament_index/resource_index/package_run_dependencies/fake_sensors
+[4.682s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/ament_index/resource_index/parent_prefix_path/fake_sensors
+[4.682s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/ament_prefix_path.sh
+[4.682s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/ament_prefix_path.dsv
+[4.682s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/path.sh
+[4.682s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/path.dsv
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.bash
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.sh
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.zsh
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.dsv
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/package.dsv
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/ament_index/resource_index/packages/fake_sensors
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/cmake/fake_sensorsConfig.cmake
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/cmake/fake_sensorsConfig-version.cmake
+[4.683s] -- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/package.xml
+[4.684s] Invoked command in '/home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/francis/Documents/ROS2/workspace/src/fake_sensors/build/fake_sensors

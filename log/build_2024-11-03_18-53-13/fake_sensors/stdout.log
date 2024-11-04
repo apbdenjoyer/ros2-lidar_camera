@@ -1,0 +1,21 @@
+[ 33%] [32mBuilding CXX object CMakeFiles/fake_lidar.dir/src/fake_lidar.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable fake_lidar[0m
+[100%] Built target fake_lidar
+-- Install configuration: ""
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/lib/fake_sensors/fake_lidar
+-- Set non-toolchain portion of runtime path of "/home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/lib/fake_sensors/fake_lidar" to ""
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/ament_index/resource_index/package_run_dependencies/fake_sensors
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/ament_index/resource_index/parent_prefix_path/fake_sensors
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/ament_prefix_path.sh
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/ament_prefix_path.dsv
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/path.sh
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/environment/path.dsv
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.bash
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.sh
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.zsh
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/local_setup.dsv
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/package.dsv
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/ament_index/resource_index/packages/fake_sensors
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/cmake/fake_sensorsConfig.cmake
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/cmake/fake_sensorsConfig-version.cmake
+-- Installing: /home/francis/Documents/ROS2/workspace/src/fake_sensors/install/fake_sensors/share/fake_sensors/package.xml
